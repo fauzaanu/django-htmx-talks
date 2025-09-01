@@ -10,6 +10,7 @@
 5. [HTML-ivating your Django web app's experience with HTMX, AlpineJS, and streaming HTML - Chris May](https://www.youtube.com/watch?v=kYV8K71pY64 )
 6. [Django + Alpine.js + htmx Ups & Downs with Karen Tracey](https://www.youtube.com/watch?v=SqlMz5Vt2ng)
 7. [Using Django 4.2's StreamingHttpResponse and HTMX SSE to provide real time notifications](https://www.youtube.com/watch?v=MziqE_2Euss)
+8. [DjangoCon Europe 2025 | Just-in-Time Development with Django and HTMX: Faster, Leaner, and Smarter](https://youtu.be/aG6m1n7zDbY)
 
 
 
