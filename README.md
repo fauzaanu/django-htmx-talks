@@ -1,19 +1,13 @@
 # Django HTMX Talks
-
 ![image](https://github.com/user-attachments/assets/b62238cc-c974-466d-a149-28bec505d83c)
 
-
-1. [DjangoCon Europe 2025 | Django + HTMX: Patterns to Success](https://youtu.be/SDuqa82nx90?list=PLY_che_OEsX19RNHHqERLODTtYs1YAtMA)
-2. [DjangoCon 2022 | From React to htmx on a real-world SaaS product: we did it, and it's awesome!](https://www.youtube.com/watch?v=3GObi93tjZI)
-3. [DjangoCon 2021 | HTMX Frontend Revolution | Thomas Güttler](https://youtu.be/Zs0DXR1S03M)
-4. [DjangoCon Europe 2024 | Django + Alpine.js + htmx Ups & Downs](https://www.youtube.com/watch?v=AVqjbUqT8ck)
-5. [HTML-ivating your Django web app's experience with HTMX, AlpineJS, and streaming HTML - Chris May](https://www.youtube.com/watch?v=kYV8K71pY64 )
-6. [Django + Alpine.js + htmx Ups & Downs with Karen Tracey](https://www.youtube.com/watch?v=SqlMz5Vt2ng)
-7. [Using Django 4.2's StreamingHttpResponse and HTMX SSE to provide real time notifications](https://www.youtube.com/watch?v=MziqE_2Euss)
-8. [DjangoCon Europe 2025 | Just-in-Time Development with Django and HTMX: Faster, Leaner, and Smarter](https://youtu.be/aG6m1n7zDbY)
-
-
-
-
-
-
+| # | Talk | Summary |
+|---|------|---------|
+| 1 | [DjangoCon Europe 2025 \| Django + HTMX: Patterns to Success](https://youtu.be/SDuqa82nx90?list=PLY_che_OEsX19RNHHqERLODTtYs1YAtMA) | This talk by Lucas Pires explores effective patterns for combining Django and HTMX, addressing common challenges, missing standards, and why they pair well together for building applications. |
+| 2 | [DjangoCon 2022 \| From React to htmx on a real-world SaaS product: we did it, and it's awesome!](https://www.youtube.com/watch?v=3GObi93tjZI) | The talk shares the experience of replacing a SaaS product's React UI with Django templates and htmx, detailing the process, performance improvements, and benefits like maintaining a rich user experience with less client-side JavaScript. |
+| 3 | [DjangoCon 2021 \| HTMX Frontend Revolution \| Thomas Güttler](https://youtu.be/Zs0DXR1S03M) | Thomas Güttler presents a humorous odyssey through various frontend frameworks, a retrospective on desired frontend features, and introduces HTMX as a revolutionary approach that extends HTML with attributes for simplified development. |
+| 4 | [DjangoCon Europe 2024 \| Django + Alpine.js + htmx Ups & Downs](https://www.youtube.com/watch?v=AVqjbUqT8ck) | Karen Tracey discusses the pros and cons of using Django with Alpine.js and htmx over 2.5-3 years, including benefits like enhanced interactivity and team collaboration, alongside challenges such as template complexity and code reuse difficulties. |
+| 5 | [HTML-ivating your Django web app's experience with HTMX, AlpineJS, and streaming HTML - Chris May](https://www.youtube.com/watch?v=kYV8K71pY64 ) | Chris May explains how to enhance Django web apps using HTMX, AlpineJS, and streaming HTML for dynamic interactions, achieving SPA-like experiences with faster load times and simpler maintenance without heavy JavaScript. |
+| 6 | [Django + Alpine.js + htmx Ups & Downs with Karen Tracey](https://www.youtube.com/watch?v=SqlMz5Vt2ng) | Karen Tracey covers the combination of Django, Alpine.js, and htmx, highlighting benefits like improved user experience and developer collaboration, as well as challenges including template complexity and code reuse issues. |
+| 7 | [Using Django 4.2's StreamingHttpResponse and HTMX SSE to provide real time notifications](https://www.youtube.com/watch?v=MziqE_2Euss) | The talk demonstrates using Django 4.2's StreamingHttpResponse and HTMX Server-Sent Events for real-time notifications in web apps, emphasizing simplicity, reduced custom JavaScript, and a demo application. |
+| 8 | [DjangoCon Europe 2025 \| Just-in-Time Development with Django and HTMX: Faster, Leaner, and Smarter](https://youtu.be/aG6m1n7zDbY) | This talk introduces Just-in-Time (lazy) development principles with Django and HTMX for efficient data fetching, creating faster apps by loading only necessary data when needed to improve performance and user experience.
